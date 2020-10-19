@@ -1,5 +1,5 @@
 # auto-job-app
-Automates standard job application practices. (Before using, the user must have pre-made resumes to be used by the algorithm)
+Automates standard job application practices. 
 
 # How it Works
 1. The user configures the main.py file to set their relevant experience and cover letter format.
